@@ -147,11 +147,3 @@ android-app/
 2. **Browse Elections**: View available elections and their status
 3. **Vote**: Select an active election, choose candidates, and confirm
 4. **Admin Access**: Access admin dashboard for election management
-
-## Contributing
-
-This is a demonstration app based on the provided screenshots. For production use, additional security measures, backend integration, and comprehensive testing would be required.
-
-## License
-
-This project is created for demonstration purposes based on the provided UI screenshots.
